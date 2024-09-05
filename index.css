@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+body {background-color: #87adde;}
+#main {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+.opinion{text-align: center; margin-top: 60px; font-size: 30px;}
+.opinion h2 {
+    font-size: 24px;
+    margin-bottom: 10px;}
+#links { 
+    margin-right: 20px;
+    text-align: center;
+    color: hotpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.opinion p {text-align: center; font-size: 20px;}
