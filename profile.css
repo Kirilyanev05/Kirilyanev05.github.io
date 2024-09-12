@@ -1,0 +1,51 @@
+body {
+    background-image:url(media/pexels-felixmittermeier-956999.jpg);
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    #heading {
+        color: blanchedalmond;
+        text-align: center;
+      padding: 20px;
+    }
+    /* this for my first paragraph */
+    .article {
+      text-align: center;
+      margin-top: 60px;
+      font-size: 30px;
+    }
+    .article {
+      width: 50%;
+      max-width: 800px;
+      background-color: #fff;
+      margin: 20px auto;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .opinion h2 {
+      color: #333;
+    }
+    nav#links {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    nav#links a {
+      margin: 0 15px;
+      text-decoration: none;
+      text-align: center;
+      color: #007bff;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+    }
+    nav#links a:hover {
+      text-decoration: underline;
+    }
+    .footer{ width: 50%;
+        max-width: 800px;
+        background-color: #fff;
+        margin: 20px auto;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}

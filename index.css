@@ -1,10 +1,42 @@
 h1 {
   text-align: center;
-  color: #333;
+  color: whitesmoke;
+}
+.aside-menu{ border: 2px solid #3498db; 
+  padding: 20px; 
+  background-color: blueviolet; 
+  margin-bottom: 20px; 
+  width: 200px; }
+  aside {
+    border: 2px solid #3498db; 
+    padding: 20px; 
+    background-color: #f2f2f2; 
+    margin-bottom: 20px; 
+    width: 200px; 
+}
+aside h4 {
+    color: #e74c3c; 
+    margin-top: 0;
+}
+aside ul {
+    list-style-type: none; 
+    padding: 0;
 }
 
+aside li {
+    margin-bottom: 15px; 
+}
+
+aside a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+aside a:hover {
+    text-decoration: underline;
+}
 body {
-  background-color: lightgray;
+background-image:url(media/pexels-felixmittermeier-956999.jpg);
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
@@ -66,3 +98,5 @@ nav#links a:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.heading-list{color: #fff;}
+ .list{color:#fff}
