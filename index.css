@@ -81,7 +81,7 @@ nav#links a:hover {
  .footer-links a {
   color:#00aced;
   margin: 0 10px;
-  
+  text-decoration: none;
  }
  .footer-links a:hover{
   text-decoration: underline;
